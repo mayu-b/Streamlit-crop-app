@@ -15,7 +15,8 @@ converts_dict = {
     'Potassium': 'K',
     'Temperature': 'temperature',
     'Humidity': 'humidity',
-    'Rainfall': 'rainfall'
+    'Rainfall': 'rainfall',
+    'ph': 'ph'
 }
 
 def predict_crop(n, p, k, temperature, humidity, ph, rainfall):
